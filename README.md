@@ -1,4 +1,4 @@
-# Classification_Project
+# Heart Disease Prediction
 
 # About Dataset
 ## Context
